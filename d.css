@@ -1,0 +1,19 @@
+#view{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    min-height: 100%;
+    display: block;
+}
+#ms{
+    
+    display: block;
+    
+}
+body, html {
+    font-size: small;
+}
+body {
+    background: #fff;
+    color: #222;
+}
